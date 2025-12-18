@@ -1,7 +1,7 @@
 # CFD – Computational Fluid Dynamics
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/CFD/fy25/features/images/key-features-of-autodesk-cfd-thumb-1920x1036-v2.jpg" width="250" alt="CFD Logo"/>  
+  <img src="https://forums.autodesk.com/html/assets/autodesk-cfd-product-icon.svg" width="250" alt="CFD Logo"/>  
 </div>  
 
 <br>  
@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/cfd/overview/cfd-social.jpg" width="1080" alt="CFD Screenshot"/>  
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/CFD/fy25/features/images/key-features-of-autodesk-cfd-thumb-1920x1036-v2.jpg" width="1080" alt="CFD Screenshot"/>  
 </div>  
 
 <br>  
