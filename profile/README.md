@@ -1,7 +1,7 @@
 # CFD – Computational Fluid Dynamics
 
 <div align="center">  
-  <img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/1_autodesk-cfd-product-icon-128@2x.png" width="250" alt="CFD Logo"/>  
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/CFD/fy25/features/images/key-features-of-autodesk-cfd-thumb-1920x1036-v2.jpg" width="250" alt="CFD Logo"/>  
 </div>  
 
 <br>  
